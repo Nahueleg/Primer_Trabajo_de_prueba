@@ -1,10 +1,10 @@
 div
 {
-    background-color: rgb(11, 87, 138);
+    background-color: rgb(255, 167, 67);
     color: rgb(0, 0, 0);
     font-size: 60px;
     text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 img
 {
@@ -18,10 +18,23 @@ table
     font-size: 40px;
     text-align: center;
     width: 100%;
-    font-family: Georgia, 'Times New Roman', Times, serif; 
-    font-family: cursive;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     border:rgb(0, 19, 128) ;
 }
 body{
     background-image: url(http://www.todopaisajes.com/800x600/playa-al-atardecer.jpg);
+}
+.linkscolor
+{
+    color: black;
+}
+.FuenteACT
+{
+    color: darkmagenta;
+    font-size: x-large;
+}
+.PDP
+{
+    text-align: center;
+    background-color: darkviolet;
 }
